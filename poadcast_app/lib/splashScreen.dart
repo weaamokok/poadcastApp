@@ -92,7 +92,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ), Text(
               'POADCAST',
               style: GoogleFonts.anton(height: .5,
-                  fontSize: 100, color: Colors.white),
+                  fontSize: 90, color: Colors.white),
             ), Text(
               'APP',
               style: GoogleFonts.anton(

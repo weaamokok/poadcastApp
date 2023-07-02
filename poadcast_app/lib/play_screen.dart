@@ -48,7 +48,7 @@ class PlayScreen extends StatelessWidget {
                     borderRadius: BorderRadius.circular(20),
                     color: Colors.grey.withOpacity(.2)),
               ),
-              SizedBox(
+              const SizedBox(
                 height: 20,
               ),
               Text(
