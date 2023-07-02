@@ -43,7 +43,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     Text(
                       'COMMUNITY',
                       style:
-                          GoogleFonts.poppins(color: Colors.grey, fontSize: 18),
+                          GoogleFonts.poppins(color: Colors.grey, fontSize: 17),
                     )
                   ],
                 ),
@@ -59,7 +59,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     Text(
                       'SOLIDARITY',
                       style:
-                          GoogleFonts.poppins(color: Colors.grey, fontSize: 18),
+                          GoogleFonts.poppins(color: Colors.grey, fontSize: 17),
                     )
                   ],
                 ),
@@ -75,7 +75,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     Text(
                       'INSPIRATION',
                       style:
-                          GoogleFonts.poppins(color: Colors.grey, fontSize: 18),
+                          GoogleFonts.poppins(color: Colors.grey, fontSize: 17),
                     )
                   ],
                 )

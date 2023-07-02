@@ -63,7 +63,7 @@ class PlayScreen extends StatelessWidget {
               ),
               Stack(children: [
                 SiriWave(
-                  style: SiriWaveStyle.ios_7,
+                  style: SiriWaveStyle.ios_7,options: SiriWaveOptions(height: 100,),
                 ),
                 Padding(
                   padding: const EdgeInsets.only(top: 50.0),
